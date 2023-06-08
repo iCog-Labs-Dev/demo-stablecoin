@@ -1,10 +1,10 @@
 <mxfile host="65bd71144e">
     <diagram id="WyKOCYspISZ9Fhzsf7lo" name="Page-1">
-        <mxGraphModel dx="1095" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+        <mxGraphModel dx="867" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#000000" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="48" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;rounded=0;" edge="1" parent="1" source="2" target="8">
+                <mxCell id="48" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;rounded=0;" parent="1" source="2" target="8" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="2" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Developer&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Stake&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
@@ -28,43 +28,43 @@
                 <mxCell id="46" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Update Oracle&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
                     <mxGeometry x="465" y="40" width="260" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="49" style="edgeStyle=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;rounded=0;" edge="1" parent="1" source="47" target="8">
+                <mxCell id="49" style="edgeStyle=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;rounded=0;" parent="1" source="47" target="8" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Oracle Validator&lt;/font&gt;&lt;br&gt;&lt;br&gt;NFT&lt;br&gt;Datum: OLD USD/ADA rate&lt;br&gt;Datum: minted amount&lt;br&gt;Datum: can mint" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                <mxCell id="47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Oracle Validator&lt;/font&gt;&lt;br&gt;&lt;br&gt;NFT&lt;br&gt;Datum: OLD USD/ADA rate&lt;br&gt;Datum: minted amount&lt;br&gt;Datum: can mint" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
                     <mxGeometry x="230" y="550" width="190" height="190" as="geometry"/>
                 </mxCell>
-                <mxCell id="51" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;rounded=0;" edge="1" source="52" target="55" parent="1">
+                <mxCell id="51" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;rounded=0;" parent="1" source="52" target="55" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="52" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Reserve Validator&lt;/span&gt;&lt;br&gt;&lt;br&gt;Stake" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                <mxCell id="52" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Reserve Validator&lt;/span&gt;&lt;br&gt;&lt;br&gt;Stake" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
                     <mxGeometry x="255" y="973" width="160" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="53" style="edgeStyle=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;fontSize=18;sketch=1;curveFitting=1;jiggle=2;rounded=0;" edge="1" source="55" target="57" parent="1">
+                <mxCell id="53" style="edgeStyle=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;fontSize=18;sketch=1;curveFitting=1;jiggle=2;rounded=0;" parent="1" source="55" target="57" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="54" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=18;sketch=1;curveFitting=1;jiggle=2;rounded=0;" edge="1" source="55" target="56" parent="1">
+                <mxCell id="54" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=18;sketch=1;curveFitting=1;jiggle=2;rounded=0;" parent="1" source="55" target="56" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="55" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Update Oracle&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                <mxCell id="55" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Update Oracle&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
                     <mxGeometry x="535" y="1163" width="140" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="56" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Oracle Validator&lt;/font&gt;&lt;br&gt;&lt;br&gt;NFT&lt;br&gt;Datum: NEW USD/ADA rate&lt;br&gt;Datum: minted amount&lt;br&gt;Datum: can mint" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                <mxCell id="56" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Oracle Validator&lt;/font&gt;&lt;br&gt;&lt;br&gt;NFT&lt;br&gt;Datum: NEW USD/ADA rate&lt;br&gt;Datum: minted amount&lt;br&gt;Datum: can mint" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
                     <mxGeometry x="760" y="1243" width="190" height="190" as="geometry"/>
                 </mxCell>
-                <mxCell id="57" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Developer&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Stake&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                <mxCell id="57" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Developer&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Stake&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
                     <mxGeometry x="775" y="973" width="160" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="58" style="edgeStyle=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;rounded=0;" edge="1" source="59" target="55" parent="1">
+                <mxCell id="58" style="edgeStyle=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;rounded=0;" parent="1" source="59" target="55" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="59" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Oracle Validator&lt;/font&gt;&lt;br&gt;&lt;br&gt;NFT&lt;br&gt;Datum: OLD USD/ADA rate&lt;br&gt;Datum: minted amount&lt;br&gt;Datum: can mint" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                <mxCell id="59" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Oracle Validator&lt;/font&gt;&lt;br&gt;&lt;br&gt;NFT&lt;br&gt;Datum: OLD USD/ADA rate&lt;br&gt;Datum: minted amount&lt;br&gt;Datum: can mint" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
                     <mxGeometry x="240" y="1243" width="190" height="190" as="geometry"/>
                 </mxCell>
-                <mxCell id="60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Old Rate &amp;gt; New Rate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                <mxCell id="60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Old Rate &amp;gt; New Rate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
                     <mxGeometry x="500" y="190" width="190" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="61" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Old Rate &amp;lt; New Rate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                <mxCell id="61" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Old Rate &amp;lt; New Rate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
                     <mxGeometry x="500" y="890" width="190" height="40" as="geometry"/>
                 </mxCell>
             </root>
